@@ -1,4 +1,4 @@
-# Juegos de Adivinanza y Ahorcado en C
+# Juego de Adivinanza y Ahorcado en C
 
 Este repositorio contiene dos juegos programados en C: un juego de adivinanza y un juego de ahorcado, ambos desarrollados de manera modular para mejorar la organización y el mantenimiento del código.
 
