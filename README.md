@@ -5,6 +5,7 @@ Este repositorio contiene dos juegos programados en C: un juego de adivinanza y 
 ## Descripción
 
 ### Juego de Adivinanza
+
 El juego de adivinanza consiste en que el usuario intente adivinar un número secreto generado aleatoriamente por el programa dentro de un rango específico. El juego proporciona pistas al usuario indicando si el número secreto es mayor o menor que la conjetura actual.
 
 ### Juego de Ahorcado
